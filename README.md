@@ -65,7 +65,7 @@ Find and replace the color of the `<footer>` text within this section to a tint 
 7.
 Right now, our page is coming together. However, the .photo-about section feels a little bland. While we don’t want to apply a color background as to not overwhelm the user with too many colors in sections, we can add some subtle changes to the text to help improve the overall design.
 
-One of the easiest ways to do this is by changing the color of the <h2> tag to another color within your color scheme.
+One of the easiest ways to do this is by changing the color of the `<h2>` tag to another color within your color scheme.
 
 Choose a color from your palette and apply it to this element.
 
