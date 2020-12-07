@@ -31,6 +31,7 @@ As we reviewed in the lesson, there are multiple color schemes to select from:
 You’ll need to determine your scheme and select a dominant color followed by supporting colors to accent your page design.
 
 Use can use Adobe Color CC to help generate color schemes if you want help for inspiration.
+https://color.adobe.com/create
 
 2.
 Once you determine your color scheme, it’s important to update the color of the text across the page to ensure the contrast is well defined.
@@ -46,7 +47,7 @@ Applying this color should help in determining the hierarchy and a focal point f
 4.
 Next, we want to apply some color contrast within the type of the hero section of the website. By doing so, it will help emphasize one single word and add a small hint of color.
 
-You can do so by replacing the text color of the span nested in the main <h1> tag to the accent color you’ve selected.
+You can do so by replacing the text color of the span nested in the main `<h1>` tag to the accent color you’ve selected.
 
 5.
 To help the user navigate through the web page, you can add some separation between sections by applying color backgrounds.
@@ -59,7 +60,7 @@ Keep in mind the contrast of the type when applying this background color to ens
 6.
 Within the blockquote section of your website, let’s update the citation of the testimonial so the text color isn’t as monotonous.
 
-Find and replace the color of the <footer> text within this section to a tint of your accent color. This will ensure the text is legible while providing some contrast between the quote color and the background itself.
+Find and replace the color of the `<footer>` text within this section to a tint of your accent color. This will ensure the text is legible while providing some contrast between the quote color and the background itself.
 
 7.
 Right now, our page is coming together. However, the .photo-about section feels a little bland. While we don’t want to apply a color background as to not overwhelm the user with too many colors in sections, we can add some subtle changes to the text to help improve the overall design.
